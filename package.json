@@ -1,0 +1,22 @@
+{
+  "name": "opp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamGabo/OPPRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamGabo/OPPRPG/issues"
+  },
+  "homepage": "https://github.com/AdamGabo/OPPRPG#readme",
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
+}
